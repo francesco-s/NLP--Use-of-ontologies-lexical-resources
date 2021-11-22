@@ -1,1 +1,1 @@
-# Tecnologie del linguaggio naturale---Seconda-parte
+# Tecnologie del linguaggio naturale
